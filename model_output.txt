@@ -1,0 +1,14 @@
+Training Accuracy: 0.9714
+Test Accuracy: 0.9111
+
+Classification Report:
+              precision    recall  f1-score   support
+
+      setosa       1.00      1.00      1.00        15
+  versicolor       0.82      0.93      0.88        15
+   virginica       0.92      0.80      0.86        15
+
+    accuracy                           0.91        45
+   macro avg       0.92      0.91      0.91        45
+weighted avg       0.92      0.91      0.91        45
+
